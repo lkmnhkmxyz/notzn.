@@ -28,15 +28,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/yourusername)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/yourusername)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/invitecode)
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lkmnhkmxyz&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkmnhkmxyz&layout=compact&theme=radical)
-
-### 🔥 Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR #123 in [repo]
-2. 🚀 Released v1.0.0
-3. 💪 Opened PR #456 in [repo]
-<!--END_SECTION:activity-->
