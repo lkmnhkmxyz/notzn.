@@ -32,3 +32,11 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/yourusername)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/invitecode)
 
+<div align="center" style="
+  background: linear-gradient(45deg, #FF0000, #FFFFFF, #0000FF);
+  padding: 12px;
+  border-radius: 8px;
+  border: 2px solid #FFFFFF;
+">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&background=00000000&width=435&height=40&lines=📝Building+Something+Awesome!;💻Web3+Enthusiast!;⛓️Node+Validator!; 🧪Testnet+Contributor!">
+</div>
